@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ridham Singhal 👋</h2>
+<h2 align="center">𝓗𝓲, 𝓘 𝓪𝓶 𝓟𝓪𝓻𝓶𝓮𝓼𝓱𝔀𝓪𝓻 𝓝𝓪𝔂𝓪𝓴 👋</h2>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+developer;" /></a>
 </p>

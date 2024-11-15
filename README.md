@@ -15,10 +15,14 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pnayak770&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  
 </a>
   
 **Talking about Personal Stuffs:**
@@ -60,7 +64,8 @@ const Nayak = {
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="25px" width="25px"/>
+<img src="https://philna.sh/_astro/node.DvAuachI.png" height="25px">
+<img alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png" height="25px" width="50px"/>
 <img alt="Java" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -71,10 +76,10 @@ const Nayak = {
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  
- 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnayak770&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnayak770&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pnayak770&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnayak770&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
